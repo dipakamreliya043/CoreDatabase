@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "948876136F1A5B2D659FB0B4CE28865F"
-               BuildableName = "Pods_DAiOSTest.framework"
-               BlueprintName = "Pods-DAiOSTest"
+               BlueprintIdentifier = "6EB678E811C25205C23BEB6F2674B21D"
+               BuildableName = "Pods_CoreDatabase.framework"
+               BlueprintName = "Pods-CoreDatabase"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

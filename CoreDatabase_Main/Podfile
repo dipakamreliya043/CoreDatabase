@@ -5,7 +5,7 @@ target 'CoreDatabase' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for DAiOSTest
+  # Pods for CoreDatabase
   pod 'Alamofire'
   pod 'Toaster'
   pod 'SDWebImage'

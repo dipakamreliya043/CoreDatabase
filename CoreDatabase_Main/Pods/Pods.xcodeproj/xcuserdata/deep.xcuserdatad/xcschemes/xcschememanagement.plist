@@ -4,31 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Alamofire.xcscheme_^#shared#^_</key>
+		<key>Alamofire.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>NVActivityIndicatorView.xcscheme_^#shared#^_</key>
+		<key>NVActivityIndicatorView.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>Pods-CoreDatabase.xcscheme_^#shared#^_</key>
+		<key>Pods-CoreDatabase.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>5</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>SDWebImage.xcscheme_^#shared#^_</key>
+		<key>SDWebImage.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>Toaster.xcscheme_^#shared#^_</key>
+		<key>Toaster.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>4</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict/>
 </dict>
 </plist>

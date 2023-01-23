@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_DAiOSTestVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_DAiOSTestVersionString[];
+FOUNDATION_EXPORT double Pods_CoreDatabaseVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_CoreDatabaseVersionString[];
 

@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/deep/Downloads/DAiOSTest/CoreDatabase.xcodeproj">
+      location = "group:CoreDatabase.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
